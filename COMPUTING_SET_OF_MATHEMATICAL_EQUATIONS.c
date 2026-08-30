@@ -5,14 +5,14 @@ A set of two liner equations with two un-knowns x1 and x2 is given below :
 ax1 + bx2 = m
 cx1 + dx2 = n
 
-The set has a unique solUtion :
+The set has a unique solution :
 
 x1 = (md - bn) / (ad - cb)
 x2 = (na - mc) / (ad - cb)
 
-provided the denominator ad - cb in not equal to zero.
+provided that denominator ad - cb in not equal to zero.
 
-Write a program that will read the values of constanta a,b,c,d,m and n
+Write a program that will read the values of constants a,b,c,d,m and n
 and compute the values of x1 and x2. Appropriate message should be displays if :
 
 ad - cb = 0.
