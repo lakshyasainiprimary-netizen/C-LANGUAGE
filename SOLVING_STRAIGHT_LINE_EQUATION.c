@@ -11,7 +11,7 @@ All summations are from 1 to n.
 */
 
 #include<stdio.h>
-#define MAX 100//DEFINING SIZE FOR ARRAY :
+#define MAX 100
 
 int main(){
 
